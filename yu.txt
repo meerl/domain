@@ -10,4 +10,5 @@ cloudflare.182682.xyz
 ip.164746.xyz
 cloudflare.net
 cloudflare.tv
+visa.com
 visa.cn
