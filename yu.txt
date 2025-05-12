@@ -5,9 +5,7 @@ deploy.workers.cloudflare.com
 malcolm.cloudflare.com
 try.cloudflare.com
 crypto.cloudflare.com
-bestcf.030101.xyz
 cloudflare.182682.xyz
-ip.164746.xyz
 cloudflare.net
 cloudflare.tv
 visa.com
